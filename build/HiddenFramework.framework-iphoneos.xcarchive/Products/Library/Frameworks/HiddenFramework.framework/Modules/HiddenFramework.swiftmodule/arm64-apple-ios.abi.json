@@ -22,38 +22,6 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(frame:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "DScrollViewElement",
-                "printedName": "HiddenFramework.DScrollViewElement",
-                "usr": "c:@M@HiddenFramework@objc(cs)DScrollViewElement"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "CGRect",
-                "printedName": "CoreFoundation.CGRect",
-                "usr": "c:@S@CGRect"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@HiddenFramework@objc(cs)DScrollViewElement(im)initWithFrame:",
-            "mangledName": "$s15HiddenFramework18DScrollViewElementC5frameACSo6CGRectV_tcfc",
-            "moduleName": "HiddenFramework",
-            "overriding": true,
-            "objc_name": "initWithFrame:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Custom",
-              "Override"
-            ],
-            "init_kind": "Designated"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
             "printedName": "init(size:backgroundColor:)",
             "children": [
               {
@@ -200,53 +168,12 @@
               "AccessControl"
             ],
             "init_kind": "Convenience"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(coder:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "HiddenFramework.DScrollViewElement?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "DScrollViewElement",
-                    "printedName": "HiddenFramework.DScrollViewElement",
-                    "usr": "c:@M@HiddenFramework@objc(cs)DScrollViewElement"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "NSCoder",
-                "printedName": "Foundation.NSCoder",
-                "usr": "c:objc(cs)NSCoder"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@HiddenFramework@objc(cs)DScrollViewElement(im)initWithCoder:",
-            "mangledName": "$s15HiddenFramework18DScrollViewElementC5coderACSgSo7NSCoderC_tcfc",
-            "moduleName": "HiddenFramework",
-            "overriding": true,
-            "objc_name": "initWithCoder:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Custom",
-              "Required"
-            ],
-            "init_kind": "Designated"
           }
         ],
         "declKind": "Class",
         "usr": "c:@M@HiddenFramework@objc(cs)DScrollViewElement",
         "mangledName": "$s15HiddenFramework18DScrollViewElementC",
         "moduleName": "HiddenFramework",
-        "isOpen": true,
         "declAttributes": [
           "Custom",
           "AccessControl",
@@ -344,38 +271,6 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(frame:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "DScrollViewContainer",
-                "printedName": "HiddenFramework.DScrollViewContainer",
-                "usr": "c:@M@HiddenFramework@objc(cs)DScrollViewContainer"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "CGRect",
-                "printedName": "CoreFoundation.CGRect",
-                "usr": "c:@S@CGRect"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@HiddenFramework@objc(cs)DScrollViewContainer(im)initWithFrame:",
-            "mangledName": "$s15HiddenFramework20DScrollViewContainerC5frameACSo6CGRectV_tcfc",
-            "moduleName": "HiddenFramework",
-            "overriding": true,
-            "objc_name": "initWithFrame:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Custom",
-              "Override"
-            ],
-            "init_kind": "Designated"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
             "printedName": "init(axis:spacing:)",
             "children": [
               {
@@ -411,38 +306,6 @@
             "init_kind": "Convenience"
           },
           {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(coder:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "DScrollViewContainer",
-                "printedName": "HiddenFramework.DScrollViewContainer",
-                "usr": "c:@M@HiddenFramework@objc(cs)DScrollViewContainer"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "NSCoder",
-                "printedName": "Foundation.NSCoder",
-                "usr": "c:objc(cs)NSCoder"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@HiddenFramework@objc(cs)DScrollViewContainer(im)initWithCoder:",
-            "mangledName": "$s15HiddenFramework20DScrollViewContainerC5coderACSo7NSCoderC_tcfc",
-            "moduleName": "HiddenFramework",
-            "overriding": true,
-            "objc_name": "initWithCoder:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Custom",
-              "Required"
-            ],
-            "init_kind": "Designated"
-          },
-          {
             "kind": "Function",
             "name": "edgeTo",
             "printedName": "edgeTo(_:)",
@@ -472,7 +335,6 @@
             "usr": "s:15HiddenFramework20DScrollViewContainerC6edgeToySo07UIStackD0CSgSo08UIScrollD0CF",
             "mangledName": "$s15HiddenFramework20DScrollViewContainerC6edgeToySo07UIStackD0CSgSo08UIScrollD0CF",
             "moduleName": "HiddenFramework",
-            "isOpen": true,
             "declAttributes": [
               "Custom",
               "AccessControl",
@@ -485,7 +347,6 @@
         "usr": "c:@M@HiddenFramework@objc(cs)DScrollViewContainer",
         "mangledName": "$s15HiddenFramework20DScrollViewContainerC",
         "moduleName": "HiddenFramework",
-        "isOpen": true,
         "declAttributes": [
           "Custom",
           "AccessControl",
@@ -620,53 +481,12 @@
               "AccessControl"
             ],
             "init_kind": "Designated"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(coder:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "HiddenFramework.DScrollView?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "DScrollView",
-                    "printedName": "HiddenFramework.DScrollView",
-                    "usr": "c:@M@HiddenFramework@objc(cs)DScrollView"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "NSCoder",
-                "printedName": "Foundation.NSCoder",
-                "usr": "c:objc(cs)NSCoder"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@HiddenFramework@objc(cs)DScrollView(im)initWithCoder:",
-            "mangledName": "$s15HiddenFramework11DScrollViewC5coderACSgSo7NSCoderC_tcfc",
-            "moduleName": "HiddenFramework",
-            "overriding": true,
-            "objc_name": "initWithCoder:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Custom",
-              "Required"
-            ],
-            "init_kind": "Designated"
           }
         ],
         "declKind": "Class",
         "usr": "c:@M@HiddenFramework@objc(cs)DScrollView",
         "mangledName": "$s15HiddenFramework11DScrollViewC",
         "moduleName": "HiddenFramework",
-        "isOpen": true,
         "declAttributes": [
           "Custom",
           "AccessControl",
@@ -1220,7 +1040,6 @@
             "usr": "s:So6UIViewC15HiddenFrameworkE6edgeTo_8safeAreaA2B_AC09DViewSafeG0OtF",
             "mangledName": "$sSo6UIViewC15HiddenFrameworkE6edgeTo_8safeAreaA2B_AC09DViewSafeG0OtF",
             "moduleName": "HiddenFramework",
-            "isOpen": true,
             "declAttributes": [
               "Custom",
               "AccessControl",
@@ -1251,7 +1070,6 @@
             "usr": "s:So6UIViewC15HiddenFrameworkE14withBackground5colorABSo7UIColorC_tF",
             "mangledName": "$sSo6UIViewC15HiddenFrameworkE14withBackground5colorABSo7UIColorC_tF",
             "moduleName": "HiddenFramework",
-            "isOpen": true,
             "declAttributes": [
               "Custom",
               "AccessControl",
@@ -1289,7 +1107,6 @@
             "usr": "s:So6UIViewC15HiddenFrameworkE14withBackground5image11contentModeABSo7UIImageC_So0a7ContentH0VtF",
             "mangledName": "$sSo6UIViewC15HiddenFrameworkE14withBackground5image11contentModeABSo7UIImageC_So0a7ContentH0VtF",
             "moduleName": "HiddenFramework",
-            "isOpen": true,
             "declAttributes": [
               "Custom",
               "AccessControl",
@@ -1321,7 +1138,6 @@
             "usr": "s:So6UIViewC15HiddenFrameworkE17addStatusBarCover15backgroundColorABSo7UIColorC_tF",
             "mangledName": "$sSo6UIViewC15HiddenFrameworkE17addStatusBarCover15backgroundColorABSo7UIColorC_tF",
             "moduleName": "HiddenFramework",
-            "isOpen": true,
             "declAttributes": [
               "Custom",
               "AccessControl",
@@ -1393,7 +1209,6 @@
             "usr": "s:So6UIViewC15HiddenFrameworkE13addScrollView_12withSafeArea17hasStatusBarCover06statusL15BackgroundColor9container8elementsAbC07DScrollF0C_AC05DViewhI0OSbSo7UIColorCAC0sF9ContainerCABdtF",
             "mangledName": "$sSo6UIViewC15HiddenFrameworkE13addScrollView_12withSafeArea17hasStatusBarCover06statusL15BackgroundColor9container8elementsAbC07DScrollF0C_AC05DViewhI0OSbSo7UIColorCAC0sF9ContainerCABdtF",
             "moduleName": "HiddenFramework",
-            "isOpen": true,
             "declAttributes": [
               "Custom",
               "AccessControl",
@@ -1424,7 +1239,6 @@
             "usr": "s:So6UIViewC15HiddenFrameworkE8withSizeyABSo6CGSizeVF",
             "mangledName": "$sSo6UIViewC15HiddenFrameworkE8withSizeyABSo6CGSizeVF",
             "moduleName": "HiddenFramework",
-            "isOpen": true,
             "declAttributes": [
               "Custom",
               "AccessControl",
@@ -1455,7 +1269,6 @@
             "usr": "s:So6UIViewC15HiddenFrameworkE10withHeightyAB14CoreFoundation7CGFloatVF",
             "mangledName": "$sSo6UIViewC15HiddenFrameworkE10withHeightyAB12CoreGraphics7CGFloatVF",
             "moduleName": "HiddenFramework",
-            "isOpen": true,
             "declAttributes": [
               "Custom",
               "AccessControl",
@@ -1486,7 +1299,6 @@
             "usr": "s:So6UIViewC15HiddenFrameworkE9withWidthyAB14CoreFoundation7CGFloatVF",
             "mangledName": "$sSo6UIViewC15HiddenFrameworkE9withWidthyAB12CoreGraphics7CGFloatVF",
             "moduleName": "HiddenFramework",
-            "isOpen": true,
             "declAttributes": [
               "Custom",
               "AccessControl",

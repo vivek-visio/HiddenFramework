@@ -1,0 +1,56 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/visioapps/Library/Developer/Xcode/DerivedData/HiddenFramework-dnevhhyxzqnvnjbydvyzcwcfpjkd/Build/Intermediates.noindex/ArchiveIntermediates/HiddenFramework/InstallationBuildProductsLocation/Library/Frameworks/HiddenFramework.framework/HiddenFramework'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x542BF, size: 0x8, addend: 0x0, symName: _HiddenFrameworkVersionString, symObjAddr: 0x0, symBinAddr: 0x6490, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x542F4, size: 0x8, addend: 0x0, symName: _HiddenFrameworkVersionNumber, symObjAddr: 0x38, symBinAddr: 0x64C8, symSize: 0x0 }
+  - { offsetInCU: 0x66, offset: 0x54370, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework18DScrollViewElementC5frameACSo6CGRectV_tcfcTo', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x6C }
+  - { offsetInCU: 0x101, offset: 0x5440B, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework18DScrollViewElementC5coderACSgSo7NSCoderC_tcfcTo', symObjAddr: 0x3D4, symBinAddr: 0x43D4, symSize: 0x58 }
+  - { offsetInCU: 0x195, offset: 0x5449F, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework18DScrollViewElementCMa', symObjAddr: 0x45C, symBinAddr: 0x445C, symSize: 0x20 }
+  - { offsetInCU: 0x1A9, offset: 0x544B3, size: 0x8, addend: 0x0, symName: '_$sSo22UILayoutConstraintAxisVMa', symObjAddr: 0x47C, symBinAddr: 0x447C, symSize: 0x54 }
+  - { offsetInCU: 0x215, offset: 0x5451F, size: 0x8, addend: 0x0, symName: '_$sSo22UILayoutConstraintAxisVSYSCSY8rawValuexSg03RawE0Qz_tcfCTW', symObjAddr: 0x4D0, symBinAddr: 0x44D0, symSize: 0x10 }
+  - { offsetInCU: 0x231, offset: 0x5453B, size: 0x8, addend: 0x0, symName: '_$sSo22UILayoutConstraintAxisVSYSCSY8rawValue03RawE0QzvgTW', symObjAddr: 0x4E0, symBinAddr: 0x44E0, symSize: 0xC }
+  - { offsetInCU: 0x378, offset: 0x54682, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework18DScrollViewElementC4size15backgroundColorACSo6CGSizeV_So7UIColorCtcfC', symObjAddr: 0x6C, symBinAddr: 0x406C, symSize: 0x140 }
+  - { offsetInCU: 0x3EB, offset: 0x546F5, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework18DScrollViewElementC5width6height15backgroundColorAC12CoreGraphics7CGFloatV_AISo7UIColorCtcfC', symObjAddr: 0x1AC, symBinAddr: 0x41AC, symSize: 0x140 }
+  - { offsetInCU: 0x4B7, offset: 0x547C1, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework18DScrollViewElementCfD', symObjAddr: 0x42C, symBinAddr: 0x442C, symSize: 0x30 }
+  - { offsetInCU: 0x2B, offset: 0x54819, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework20DScrollViewContainerC5frameACSo6CGRectV_tcfcTo', symObjAddr: 0x0, symBinAddr: 0x44EC, symSize: 0x84 }
+  - { offsetInCU: 0x6A, offset: 0x54858, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework20DScrollViewContainerC5frameACSo6CGRectV_tcfcTo', symObjAddr: 0x0, symBinAddr: 0x44EC, symSize: 0x84 }
+  - { offsetInCU: 0xE0, offset: 0x548CE, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework20DScrollViewContainerC5coderACSo7NSCoderC_tcfcTo', symObjAddr: 0x108, symBinAddr: 0x45F4, symSize: 0x70 }
+  - { offsetInCU: 0x16F, offset: 0x5495D, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework20DScrollViewContainerCMa', symObjAddr: 0x474, symBinAddr: 0x4960, symSize: 0x20 }
+  - { offsetInCU: 0x23B, offset: 0x54A29, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework20DScrollViewContainerC4axis7spacingACSo22UILayoutConstraintAxisV_12CoreGraphics7CGFloatVtcfC', symObjAddr: 0x84, symBinAddr: 0x4570, symSize: 0x84 }
+  - { offsetInCU: 0x2B9, offset: 0x54AA7, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework20DScrollViewContainerC6edgeToySo07UIStackD0CSgSo08UIScrollD0CF', symObjAddr: 0x178, symBinAddr: 0x4664, symSize: 0x2CC }
+  - { offsetInCU: 0x323, offset: 0x54B11, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework20DScrollViewContainerCfD', symObjAddr: 0x444, symBinAddr: 0x4930, symSize: 0x30 }
+  - { offsetInCU: 0x27, offset: 0x54B6A, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework11DScrollViewC5frameACSo6CGRectV_tcfC', symObjAddr: 0x0, symBinAddr: 0x49A8, symSize: 0x50 }
+  - { offsetInCU: 0x81, offset: 0x54BC4, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework11DScrollViewC5frameACSo6CGRectV_tcfcTo', symObjAddr: 0xF0, symBinAddr: 0x4A98, symSize: 0x84 }
+  - { offsetInCU: 0xE3, offset: 0x54C26, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework11DScrollViewC5coderACSgSo7NSCoderC_tcfcTo', symObjAddr: 0x174, symBinAddr: 0x4B1C, symSize: 0x58 }
+  - { offsetInCU: 0x141, offset: 0x54C84, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework11DScrollViewCMa', symObjAddr: 0xD0, symBinAddr: 0x4A78, symSize: 0x20 }
+  - { offsetInCU: 0x1BD, offset: 0x54D00, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework11DScrollViewC5frameACSo6CGRectV_tcfC', symObjAddr: 0x0, symBinAddr: 0x49A8, symSize: 0x50 }
+  - { offsetInCU: 0x1D1, offset: 0x54D14, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework11DScrollViewC5frameACSo6CGRectV_tcfc', symObjAddr: 0x50, symBinAddr: 0x49F8, symSize: 0x80 }
+  - { offsetInCU: 0x265, offset: 0x54DA8, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework11DScrollViewCfD', symObjAddr: 0x1CC, symBinAddr: 0x4B74, symSize: 0x30 }
+  - { offsetInCU: 0x27, offset: 0x54DF2, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework13DViewSafeAreaO2eeoiySbAC_ACtFZ', symObjAddr: 0xB4, symBinAddr: 0x4C58, symSize: 0x14 }
+  - { offsetInCU: 0xA6, offset: 0x54E71, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework13DViewSafeAreaOSQAASQ2eeoiySbx_xtFZTW', symObjAddr: 0x134, symBinAddr: 0x4CD8, symSize: 0x14 }
+  - { offsetInCU: 0xC6, offset: 0x54E91, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework13DViewSafeAreaOSQAASQ2eeoiySbx_xtFZTW', symObjAddr: 0x134, symBinAddr: 0x4CD8, symSize: 0x14 }
+  - { offsetInCU: 0xEC, offset: 0x54EB7, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework13DViewSafeAreaOSHAASH9hashValueSivgTW', symObjAddr: 0x148, symBinAddr: 0x4CEC, symSize: 0x44 }
+  - { offsetInCU: 0x1CF, offset: 0x54F9A, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework13DViewSafeAreaOSHAASH4hash4intoys6HasherVz_tFTW', symObjAddr: 0x18C, symBinAddr: 0x4D30, symSize: 0x28 }
+  - { offsetInCU: 0x44F, offset: 0x5521A, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework13DViewSafeAreaOSHAASQWb', symObjAddr: 0x158C, symBinAddr: 0x6130, symSize: 0x4 }
+  - { offsetInCU: 0x463, offset: 0x5522E, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework13DViewSafeAreaOACSQAAWl', symObjAddr: 0x1590, symBinAddr: 0x6134, symSize: 0x44 }
+  - { offsetInCU: 0x477, offset: 0x55242, size: 0x8, addend: 0x0, symName: ___swift_memcpy1_1, symObjAddr: 0x15D4, symBinAddr: 0x6178, symSize: 0xC }
+  - { offsetInCU: 0x48B, offset: 0x55256, size: 0x8, addend: 0x0, symName: ___swift_noop_void_return, symObjAddr: 0x15E0, symBinAddr: 0x6184, symSize: 0x4 }
+  - { offsetInCU: 0x49F, offset: 0x5526A, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework13DViewSafeAreaOwet', symObjAddr: 0x15E4, symBinAddr: 0x6188, symSize: 0x90 }
+  - { offsetInCU: 0x4B3, offset: 0x5527E, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework13DViewSafeAreaOwst', symObjAddr: 0x1674, symBinAddr: 0x6218, symSize: 0xBC }
+  - { offsetInCU: 0x4C7, offset: 0x55292, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework13DViewSafeAreaOwug', symObjAddr: 0x1730, symBinAddr: 0x62D4, symSize: 0x8 }
+  - { offsetInCU: 0x4DB, offset: 0x552A6, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework13DViewSafeAreaOwup', symObjAddr: 0x1738, symBinAddr: 0x62DC, symSize: 0x4 }
+  - { offsetInCU: 0x4EF, offset: 0x552BA, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework13DViewSafeAreaOwui', symObjAddr: 0x173C, symBinAddr: 0x62E0, symSize: 0x8 }
+  - { offsetInCU: 0x503, offset: 0x552CE, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework13DViewSafeAreaOMa', symObjAddr: 0x1744, symBinAddr: 0x62E8, symSize: 0x10 }
+  - { offsetInCU: 0x591, offset: 0x5535C, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework13DViewSafeAreaOSHAASH13_rawHashValue4seedS2i_tFTW', symObjAddr: 0x1B4, symBinAddr: 0x4D58, symSize: 0x40 }
+  - { offsetInCU: 0x7A8, offset: 0x55573, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework13DViewSafeAreaO2eeoiySbAC_ACtFZ', symObjAddr: 0xB4, symBinAddr: 0x4C58, symSize: 0x14 }
+  - { offsetInCU: 0x7EF, offset: 0x555BA, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework13DViewSafeAreaO4hash4intoys6HasherVz_tF', symObjAddr: 0xC8, symBinAddr: 0x4C6C, symSize: 0x28 }
+  - { offsetInCU: 0x87A, offset: 0x55645, size: 0x8, addend: 0x0, symName: '_$s15HiddenFramework13DViewSafeAreaO9hashValueSivg', symObjAddr: 0xF0, symBinAddr: 0x4C94, symSize: 0x44 }
+  - { offsetInCU: 0x983, offset: 0x5574E, size: 0x8, addend: 0x0, symName: '_$sSo6UIViewC15HiddenFrameworkE6edgeTo_8safeAreaA2B_AC09DViewSafeG0OtF', symObjAddr: 0x1F4, symBinAddr: 0x4D98, symSize: 0x18 }
+  - { offsetInCU: 0x997, offset: 0x55762, size: 0x8, addend: 0x0, symName: '_$sSo6UIViewC15HiddenFrameworkE14withBackground5colorABSo7UIColorC_tF', symObjAddr: 0x20C, symBinAddr: 0x4DB0, symSize: 0x34 }
+  - { offsetInCU: 0x9DB, offset: 0x557A6, size: 0x8, addend: 0x0, symName: '_$sSo6UIViewC15HiddenFrameworkE14withBackground5image11contentModeABSo7UIImageC_So0a7ContentH0VtF', symObjAddr: 0x240, symBinAddr: 0x4DE4, symSize: 0xB8 }
+  - { offsetInCU: 0xAB4, offset: 0x5587F, size: 0x8, addend: 0x0, symName: '_$sSo6UIViewC15HiddenFrameworkE17addStatusBarCover15backgroundColorABSo7UIColorC_tF', symObjAddr: 0x2F8, symBinAddr: 0x4E9C, symSize: 0x26C }
+  - { offsetInCU: 0xBAA, offset: 0x55975, size: 0x8, addend: 0x0, symName: '_$sSo6UIViewC15HiddenFrameworkE13addScrollView_12withSafeArea17hasStatusBarCover06statusL15BackgroundColor9container8elementsAbC07DScrollF0C_AC05DViewhI0OSbSo7UIColorCAC0sF9ContainerCABdtF', symObjAddr: 0x564, symBinAddr: 0x5108, symSize: 0x164 }
+  - { offsetInCU: 0xDBA, offset: 0x55B85, size: 0x8, addend: 0x0, symName: '_$sSo6UIViewC15HiddenFrameworkE8withSizeyABSo6CGSizeVF', symObjAddr: 0x6C8, symBinAddr: 0x526C, symSize: 0xF4 }
+  - { offsetInCU: 0xDEF, offset: 0x55BBA, size: 0x8, addend: 0x0, symName: '_$sSo6UIViewC15HiddenFrameworkE6edgeTo_8safeAreaA2B_AC09DViewSafeG0OtFTf4nnn_g', symObjAddr: 0x7BC, symBinAddr: 0x5360, symSize: 0xDB0 }
+...
